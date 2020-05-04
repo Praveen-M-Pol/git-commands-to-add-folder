@@ -2,7 +2,7 @@
 
 There are five git commands to add a folder in your git repository:
 
-First in your terminal navigate to the folder that you want to push it to github repository
+First in your terminal navigate to the folder that you want to push it to github repository.
 Now run these commands one by one and your job will be done...
 
 1) git init
