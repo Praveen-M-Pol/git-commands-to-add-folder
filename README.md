@@ -8,10 +8,11 @@ Now run these commands one by one in your terminal and your job will be done...
 1) git init
 2) git add .
 3) git commit -m "First Commit"
-4) git remote add origin yourRepositoryLink
-5) git push origin master
+4) git branch -m master
+5) git remote add origin yourRepositoryLink
+6) git push -u origin master
 
-After the 5th command you will be asked to enter your github username and password.
+After the 6th command you will be asked to enter your github username and password.
 
 Once you are done with this, your job of pushing the folder into github will be completed... 
 
